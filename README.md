@@ -6,8 +6,10 @@ The myfunction.js file should print your name every second until the random coun
 
 example output:
 
+```
 John Smith 5
 John Smith 4
 John Smith 3
 John Smith 2
 John Smith 1
+```
