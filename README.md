@@ -2,7 +2,7 @@
 
 Fork this repository, create a new branch to fix the bugs and create a pull request. Make sure you document and comment your work.
 
-The myfunction.js file should print your name every second until the random count down timer hits zero. when the timer hits zero the timer should be cleared and execution should end.
+The myfunction.js file should print your name every second until the random count down timer hits one. when the timer hits one the timer should be cleared the final output should log and execution should end.
 
 example output:
 
